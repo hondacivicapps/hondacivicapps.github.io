@@ -8,7 +8,7 @@
         "needs": [
                 {"need": "Web Designer"},
                 {"need": "Node Dev"},
-                {"need": "3D person"},
+                {"need": "3D geom"},
                 {"need": "Mapper"}
         ],
         "categories": [
