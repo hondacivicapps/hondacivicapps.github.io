@@ -1,0 +1,19 @@
+{
+        "status": "Beta",
+        "thumbnailUrl": "hondacivicapps.github.io",
+        "bornAt": "CodeAcross NYC",
+        "geography": "NYC",
+        "politicalEntity":"",
+        "type":"Web App",
+        "needs": [
+                {"need": "Web Designer"},
+                {"need": "Node Dev"},
+                {"need": "3D person"},
+                {"need": "Mapper"}
+        ],
+        "categories": [
+                {"category": "Community"},
+                {"category": "Vizualization"},
+                {"category": "Education"}
+        ]
+}
