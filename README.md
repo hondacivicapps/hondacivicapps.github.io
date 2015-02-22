@@ -1,2 +1,2 @@
 # hondacivicapps.github.io
-viz
+Vizualization for skyline and daylight changes caused by new buildings
